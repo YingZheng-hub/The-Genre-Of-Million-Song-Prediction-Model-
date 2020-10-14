@@ -16,9 +16,10 @@ Predicting the genre of songs based on the frequency of words in lyrics by using
  # Another way to look for genre
     * Find the mode meaning the most common value by defining Mode function with python
     * The max mode indicate the genre of the songs 
+# Evaluation of Classification 
   * Evaluate the accuracy of the predictions with k = 15,16,7 using k-nearest neighbor algorithm
   * Created a Chart to show the accuracy rate for different choices of k value 
-# Result 
-  The chart shows that when k equals to 7, the accurancy rate of the predictions is the highest. 
-  And, in this case K = 16 is overfitting because the accurancy rate is relatively low. 
+# Results 
+  * The chart shows that when k equals to 7, the accurancy rate of the predictions is the highest. 
+  * And, in this case K = 16 is overfitting because the accurancy rate is relatively low. 
 
