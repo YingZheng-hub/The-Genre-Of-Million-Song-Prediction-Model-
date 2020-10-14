@@ -14,8 +14,8 @@ Predicting the genre of songs based on the frequency of words in lyrics by using
   * Compare songs with the frequency of words by using scatterplot 
   * Calculate distance between the selected song in testing dataset and all songs in training dataset to determine the genre of the selected song through NumPy,         Pandas  
  # Another way to look for genre
-    * Find the mode meaning the most common value by defining Mode function with python
-    * The max mode indicate the genre of the songs 
+   * Find the mode meaning the most common value by defining Mode function with python
+   * The max mode indicate the genre of the songs 
 # Evaluation of Classification 
   * Evaluate the accuracy of the predictions with k = 15,16,7 using k-nearest neighbor algorithm
   * Created a Chart to show the accuracy rate for different choices of k value 
